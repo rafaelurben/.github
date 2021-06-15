@@ -1,0 +1,3 @@
+# .github
+
+Global .github options
