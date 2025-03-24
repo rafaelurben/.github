@@ -1,0 +1,51 @@
+name: ✨ Feature request
+description: Request a new feature
+title: "[Feature]: "
+labels: ["feature", "triage"]
+assignees:
+  - rafaelurben
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+
+        Before you start, **please check if there is an existing issue that matches your request**.
+        If so, add your ideas to the existing issue in the form of comments.
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature description
+      description: Describe the feature you'd like.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why would you like this feature? How could it help you?
+      placeholder: I'm always frustrated when... This feature would...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives / Workarounds
+      description: Are there any alternatives or workarounds you already tried or may have considered?
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
+      description: |
+        Links? References? Screenshots? Anything that will give me more context about the feature you are requesting!
+  
+        Tip: You can attach images or other files by clicking this area to highlight it and then dragging files in.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist 
+      options:
+        - label: I have searched for existing issues matching this request and have found none that match.
+          required: true
+        - label: I can be contacted via answer to this issue or have provided alternative contact information under "Additional Information".
+          required: true
