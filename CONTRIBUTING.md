@@ -1,6 +1,6 @@
 Thank you for contributing to one of my projects!
 =================================================
 
-Feel free to open an issue or pull request at any time.
+I welcome your contributions! Please feel free to open an issue or submit a pull request at any time. Before doing so, kindly check if there is an existing issue or pull request that addresses the same topic.
 
-If you found a major security issue, please contact me via [email](https://go.rafaelurben.ch/devmail)!
+Should you discover a significant security issue, please contact me directly via [email](https://go.rafaelurben.ch/devmail) or, if available, use GitHub's [Report a vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) feature.
