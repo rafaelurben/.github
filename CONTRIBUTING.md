@@ -1,6 +1,21 @@
-Thank you for contributing to one of my projects!
-=================================================
+# Rafael's Contribution Policy
 
-I welcome your contributions! Please feel free to open an issue or submit a pull request at any time. Before doing so, kindly check if there is an existing issue or pull request that addresses the same topic.
+This policy is relevant for all of `rafaelurben`'s repositories.
 
-Should you discover a significant security issue, please contact me directly via [email](https://go.rafaelurben.ch/devmail) or, if available, use GitHub's [Report a vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) feature.
+## Contributing
+
+**First of all, thank you for contributing to one of my projects!** I appreciate any kind of contributions! 
+
+Please feel free to open an issue or submit a pull request at any time. Before doing so, kindly check if there is an existing issue or pull request that addresses the same topic. You can also open a discussion if you want to ask a question or have an idea you would like to share.
+
+> [!IMPORTANT]
+> Should you discover a **security issue**, please follow the [Security policy](./SECURITY.md).
+
+## Financial support
+
+Would you like to support my projects financially?
+
+You can do so via the following platforms:
+
+- [GitHub Sponsors](https://github.com/sponsors/rafaelurben/)
+- [Patreon](https://patreon.com/rafaelurben)
