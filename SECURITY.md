@@ -1,9 +1,14 @@
-# Reporting Security Issues
+# Rafael's Security Policy
 
-Please do not report security issues as normal issues.
+This policy is relevant for all of `rafaelurben`'s repositories.
 
-If available, you can use GitHub's "Report a Vulnerability" feature to report a vulnerability.
+## Reporting security vulnerabilities
 
-If not, please [contact me via email](https://go.rafaelurben.ch/devmail).
+> [!IMPORTANT]
+> Please do not report security issues as normal GitHub issues. Security issues are considered confidential until a fix is released.
+
+If available, you can use GitHub's "Report a Vulnerability" feature to report a vulnerability. This can be found in the "Security" tab on repositories where this feature is enabled.
+
+If this feature is not enabled or you cannot use it, please [contact me via email](https://go.rafaelurben.ch/devmail).
 
 Thank you for your report! I take security issues seriously and will try to respond as soon as possible.
