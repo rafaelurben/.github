@@ -19,3 +19,4 @@ You can do so via the following platforms:
 
 - [GitHub Sponsors](https://github.com/sponsors/rafaelurben/)
 - [Patreon](https://patreon.com/rafaelurben)
+⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱⚛️➕️⚛️🔱
