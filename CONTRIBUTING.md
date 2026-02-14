@@ -7,7 +7,7 @@ This policy is relevant for all of `rafaelurben`'s repositories.
 First of all, thank you for contributing to one of my projects! I appreciate any kind of contributions! 
 
 - **Bugs**: Please feel free to open an issue to report bugs or submit a pull request for fixing bugs at any time.
-- **Feature requests**: If you have a concrete idea for a new feature, please create a feature request issue. If you'd like to work on it yourself, please open a PR only after discussion the request with me first.
+- **Feature requests**: If you have a concrete idea for a new feature, please create a feature request issue. If you'd like to work on it yourself, please state this in the feature request. Don't open pull requests for new features without discussing them first.
 - **Questions and ideas**: You can open a discussion if you want to ask a question or have an idea you would like to share.
 
 > [!NOTE]
