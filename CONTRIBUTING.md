@@ -16,6 +16,10 @@ First of all, thank you for contributing to one of my projects! I appreciate any
 > [!IMPORTANT]
 > Should you discover a **security issue**, please follow the [Security policy](./SECURITY.md).
 
+### Code contributions
+
+Please check the README of the project for specific instructions regarding code quality or code formatting tools.
+
 ## Financial support
 
 Would you like to support my projects financially?
